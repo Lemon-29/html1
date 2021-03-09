@@ -1,0 +1,39 @@
+article {
+  width: 680px;
+  float: right;
+}
+
+.submit {
+  text-align: center;
+}
+
+.submit_btn {
+  background-color: turquoise;
+  width: 100px;
+  height: 40px;
+  border: none;
+}
+.submit_btn:hover {
+  opacity: 0.6;
+  margin: auto;
+}
+
+td{
+  width: 480px;
+  text-align: left;
+}
+
+th{
+  height: 7rem;
+  width: 150px;
+  text-align: right;
+
+}
+
+td.form_sex {
+
+}
+
+.form{
+  width: 480px;
+}
